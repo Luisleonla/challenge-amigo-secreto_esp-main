@@ -22,7 +22,7 @@ function agregarAmigo() {
     arrayAmigos.push(nombre);
     estadoInicial();
     
-    // Limpia las listas "listaAmigos" y "listaResultados" para evitar resultados duplicados.
+    // Limpia las listas "listaAmigos" y "listaResultado" para evitar resultados duplicados.
     limpiarListaHTML(listaAmigos);
     limpiarListaHTML(listaResultado); 
 
@@ -42,10 +42,10 @@ function sortearAmigo() {
         //Cuando existan el mínimo de elementos necesarios para ser sorteados, se realizará la selección aleatoria y será mostrada en pantalla 
         estadoInicial();
         let indexAmigo = Math.floor(Math.random() * arrayAmigos.length);
+        //listaResultado.innerHTML = arrayAmigos[indexAmigo];
         crearElementoLista(arrayAmigos[indexAmigo], listaResultado);
         limpiarListaHTML(listaAmigos);
         arrayAmigos = [];
-        console.log(indexAmigo);
     }
 }
 
