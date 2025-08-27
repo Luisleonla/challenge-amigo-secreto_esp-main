@@ -1,4 +1,4 @@
-![Portada muestra amigo secreto](assets/portada.png)
+![Portada muestra amigo secreto](assets/Portada.png)
 # Primer chalenge - Amigo secreto
 
 <img src="https://img.shields.io/badge/Challenge-en_construcción-blue
