@@ -4,13 +4,6 @@
 <img src="https://img.shields.io/badge/Challenge-en_construcción-blue
 ">
 
-## Índice
-
-* Descripción del proyecto "Amigo secreto"
-* Demostración de funciones y aplicaciones
-
-
-
 ## Descripción de proyecto
 
 Después de completar los aprendizajes de lógica de programación, se propone el presente challenge para aplicar los conocimientos obtenidos.
