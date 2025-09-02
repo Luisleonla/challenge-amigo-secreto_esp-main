@@ -1,7 +1,7 @@
 ![Portada muestra amigo secreto](assets/Portada.png)
 # Primer chalenge - Amigo secreto
 
-<img src="https://img.shields.io/badge/Challenge-en_construcción-blue
+<img src="https://img.shields.io/badge/Challenge-done-green
 ">
 
 ## Descripción de proyecto
